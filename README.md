@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:e83030,50:1a0505,100:000000&height=60&text=%Olá%,%20sou%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
 
-• 📚- Cursando Análise e Desenvolvimento de Sistemas <br>
-• 🧑‍💻- Desenvolvedor de Software <br>
-• ⭐- Portfólio: https://renatonnbp.github.io/portfolio/
+> Sou Desenvolvedor de Software, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
+
+<hr>
 
 <br>
 <div align="center">
