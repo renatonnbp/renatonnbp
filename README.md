@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:63ffff,25:0073e9,50:164eaf,75:062e78,100:031a45&height=60&text=%Olá%,%20sou%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:e83030,50:1a0505,100:000000&height=60&text=%Olá%,%20sou%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 • 📚- Cursando Análise e Desenvolvimento de Sistemas <br>
 • 🧑‍💻- Desenvolvedor de Software <br>
@@ -30,17 +30,16 @@
 <br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=900&height=40&lines=Github+stats" alt="Typing SVG" /></a>
-  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=renatonnbp&bg_color=000000&text_color=404040&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=404040&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
-<h3 align="center">Connect with me <img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
+<h3 align="center">Conecte-se<img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
 
 <h3 align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-032360?style=for-the-badge&logo=linkedin&logoColor=27ffff&color:032360)](https://www.linkedin.com/in/renatonunesan/)
-  [![Instagram](https://img.shields.io/badge/-instagram-032360?style=for-the-badge&logo=instagram&logoColor=27ffff&color:00247b)](https://www.instagram.com/renatonunesan/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-032360?style=for-the-badge&logo=Gmail&logoColor=27ffff&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=e83030&color:032360)](https://www.linkedin.com/in/renatonunesan/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=e83030&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
 
 </h3>
 
