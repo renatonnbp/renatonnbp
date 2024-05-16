@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:63ffff,25:0073e9,50:164eaf,75:062e78,100:031a45&height=60&text=%Olá%,%20sou%20Renato%20Nunes!&animation=fadeIn&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=55)
 
 • 📚- Cursando Análise e Desenvolvimento de Sistemas <br>
-• 🧑‍💻- Desenvolvedor Front End e UI Designer <br>
+• 🧑‍💻- Desenvolvedor de Software <br>
 • ⭐- Portfólio: https://renatonnbp.github.io/portfolio/
 
 <br>
@@ -14,6 +14,8 @@
     <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
     <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
+    <a href="https://www.python.org/" target="_blank"><img align="center" alt="python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"></a>
   </div>
 
 </td><td valign="center" width="397px" height="60px">
