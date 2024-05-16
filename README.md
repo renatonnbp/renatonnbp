@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:e83030,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
 
 > Sou Desenvolvedor de Software, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
 
