@@ -40,7 +40,7 @@
 
   [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logoColor=e83030&color:032360)](https://renatonnbp.github.io/portfolio/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=186DF8&color:032360)](https://www.linkedin.com/in/renatonunesan/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=186DF8&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=186DF8&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonnbp@gmail.com)
 
 
 </h3>
