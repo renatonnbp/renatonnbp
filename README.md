@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:e83030,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:186DF8,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
 
 > Sou Desenvolvedor de Software, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
 
@@ -39,8 +39,8 @@
 <h3 align="center">
 
   [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logoColor=e83030&color:032360)](https://renatonnbp.github.io/portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=e83030&color:032360)](https://www.linkedin.com/in/renatonunesan/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=e83030&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=186DF8&color:032360)](https://www.linkedin.com/in/renatonunesan/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=186DF8&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonunesan@gmail.com)
 
 
 </h3>
