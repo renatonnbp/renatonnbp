@@ -30,8 +30,8 @@
 <br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=900&height=40&lines=Github+stats" alt="Typing SVG" /></a>
-  <img width="57.3%" src="https://github-readme-stats.vercel.app/api?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="59.1%" src="https://github-readme-stats.vercel.app/api?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="40.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
 <h3 align="center">Conecte-se<img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
