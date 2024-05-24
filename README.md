@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:186DF8,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:144dff,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
 
 > Sou Desenvolvedor de Software, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
 
@@ -31,7 +31,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=900&height=40&lines=Github+stats" alt="Typing SVG" /></a>
   <img width="55.3%" src="https://github-readme-stats.vercel.app/api?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="43.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+  <img width="37.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
 </div>
 
 <h3 align="center">Conecte-se<img width="50px" src="https://github.com/renatonunesan/renatonunesan/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
@@ -39,8 +39,8 @@
 <h3 align="center">
 
   [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logoColor=e83030&color:032360)](https://renatonnbp.github.io/portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=186DF8&color:032360)](https://www.linkedin.com/in/renatonunesan/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=186DF8&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonnbp@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=144dff&color:032360)](https://www.linkedin.com/in/renatonunesan/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=144dff&color:00247b&link=mailto:renatonunesan@gmail.com)](mailto:renatonnbp@gmail.com)
 
 
 </h3>
