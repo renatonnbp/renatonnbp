@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=abbeff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
 
 <div align="left">
-<table><td>
+<table>
   
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=abbeff)
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=abbeff)
@@ -17,15 +17,15 @@
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=abbeff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=abbeff)
   
-</table></td> 
+</table>
 </div>
 
 <div style="text-align: center;" align="center">
   <br>
-  <img width="59.1%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=8B8B8B&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
+  <img width="60.1%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=8B8B8B&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/renatonnbp/github-readme-stats">
-    <img width="36.8%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
+    <img width="37.8%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
