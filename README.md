@@ -4,9 +4,9 @@
 
 #
 
-<img align="right" height="110px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
+<img align="right" height="110px" width="250px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=abbeff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
 
 <div align="left">
 <table><td>
@@ -20,8 +20,6 @@
 </table></td> 
 </div>
 
-#
-
 <div style="text-align: center;" align="center">
   <br>
   <img width="59.1%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=8B8B8B&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
@@ -30,6 +28,8 @@
     <img width="36.8%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+#
 
 <h3 align="center">Conecte-se<img width="50px" src="https://github.com/renatonnbp/renatonnbp/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
 
