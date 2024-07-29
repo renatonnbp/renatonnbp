@@ -32,8 +32,6 @@
 </div>
 
 
-<h3 align="center">Conecte-se<img width="50px" src="https://github.com/renatonnbp/renatonnbp/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
-
 <h3 align="center">
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=abbeff)](https://renatonnbp.github.io/portfolio/)
