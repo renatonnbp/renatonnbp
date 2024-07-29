@@ -1,46 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:144dff,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:abbeff,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
 
 > Sou Desenvolvedor Front-end Junior, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
 
-<hr>
+#
 
-<br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=900&height=40&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a>
-<table><tr><td valign="center" width="503px" height="60px">
-  <div align="center">
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img align="center" alt="html5" height="35" width="45" src="https://skillicons.dev/icons?i=html"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="css3" height="35" width="45" src="https://skillicons.dev/icons?i=css"></a>
-    <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="javascript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="typescript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
-    <a href="https://reactjs.org/" target="_blank"><img align="center" alt="react" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-    <a href="https://www.python.org/" target="_blank"><img align="center" alt="python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"></a>
-  </div>
+<h3 align="left">My Stack</h3>
 
-</td><td valign="center" width="397px" height="60px">
-  <div align= "center">
-    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="VScode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>
-    <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
-    <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></a>
-    <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  </div>
-</td></tr></table>  
+<div align="left">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=abbeff)
+  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=abbeff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=abbeff)
+  ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=abbeff)
+  ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=abbeff)
+    
 </div>
-<br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=900&height=40&lines=Github+stats" alt="Typing SVG" /></a>
-  <img width="59.1%" src="https://github-readme-stats.vercel.app/api?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
-  <img width="40.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatonnbp&bg_color=000000&text_color=7B7B7B&title_color=ffffff&layout=compact&theme=algolia&langs_count=7&hide_border=true"/>
+
+<div align="left">
+  
+  ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=abbeff)
+  ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=abbeff)
+  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=abbeff)
+  
+</div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>GitHub Stats</h3>
+  <br>
+  <img width="59.1%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=FFF&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/renatonnbp/github-readme-stats">
+    <img width="36.8%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
 
 <h3 align="center">Conecte-se<img width="50px" src="https://github.com/renatonnbp/renatonnbp/assets/153360955/24741059-a493-4a42-a248-d85414f40748"></img></h3>
 
 <h3 align="center">
 
-  [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logoColor=e83030&color:032360)](https://renatonnbp.github.io/portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=144dff&color:032360)](https://www.linkedin.com/in/renatonnbp/)
-  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=144dff&color:00247b&link=mailto:renatonnbp@gmail.com)](mailto:renatonnbp@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=abbeff)](https://renatonnbp.github.io/portfolio/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=abbeff&color:032360)](https://www.linkedin.com/in/renatonnbp/)
+  [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=abbeff&color:00247b&link=mailto:renatonnbp@gmail.com)](mailto:renatonnbp@gmail.com)
 
 
 </h3>
