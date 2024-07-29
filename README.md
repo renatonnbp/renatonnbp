@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:abbeff,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=FFFFFF&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:abbeff,10:0A0A0A&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=c9d4fd&fontSize=25&fontAlign=50&fontAlignY=55)
 
 > Sou Desenvolvedor Front-end Junior, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
 
@@ -6,7 +6,7 @@
 
 <img align="right" height="115px" width="265px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=abbeff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=c9d4fd&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
 
 <div align="left">
 <table><td>
