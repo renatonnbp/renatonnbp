@@ -2,7 +2,7 @@
 
 > Sou Desenvolvedor Front-end Junior, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
 
-#
+<hr>
 
 <img align="right" height="115px" width="265px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
 
@@ -20,14 +20,14 @@
 </table></td>
 </div>
 
-#
+<hr>
 
 <div style="text-align: center;" align="center">
   <br>
-  <img width="60.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=8B8B8B&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
+  <img width="61.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=7a828e&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/renatonnbp/github-readme-stats">
-    <img width="37.9%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
+    <img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=7a828e&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
