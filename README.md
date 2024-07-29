@@ -4,6 +4,8 @@
 
 #
 
+<img align="right" height="150px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
+
 <h3 align="left">My Stack</h3>
 
 <div align="left">
@@ -29,7 +31,7 @@
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
   <br>
-  <img width="59.1%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=FFF&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
+  <img width="59.1%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=abbeff&text_color=8B8B8B&border_radius=3&border_color=abbeff&icon_color=abbeff&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/renatonnbp/github-readme-stats">
     <img width="36.8%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=abbeff&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=abbeff&count_private=true" alt="Most Used Languages">
