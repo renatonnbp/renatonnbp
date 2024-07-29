@@ -4,7 +4,7 @@
 
 #
 
-<img align="right" height="115px" width="260px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
+<img align="right" height="115px" width="265px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=abbeff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
 
