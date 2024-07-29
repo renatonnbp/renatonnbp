@@ -31,6 +31,8 @@
   </a>
 </div>
 
+<br>
+
 
 <h3 align="center">
 
@@ -40,4 +42,6 @@
 
 
 </h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:144dff,25:000000,50:000000,75:000000,100:000000&reversal=true&height=80&section=footer"/>
 
