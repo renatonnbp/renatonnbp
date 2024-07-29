@@ -4,18 +4,20 @@
 
 #
 
-<img align="right" height="150px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
+<img align="right" height="110px" src="https://github.com/user-attachments/assets/9a2f02ac-be1f-4701-925e-613f3387a45d">
 
-<h3 align="left">My Stack</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Extrabold&pause=10000&color=ffffff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=Tecnologias+e+Ferramentas+" alt="Typing SVG" /></a>
 
 <div align="left">
+<table><td>
   
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=abbeff)
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=abbeff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=abbeff)
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=abbeff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=abbeff)
-    
+  
+</table></td> 
 </div>
 
 <div align="left">
