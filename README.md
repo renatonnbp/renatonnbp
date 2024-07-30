@@ -4,11 +4,9 @@
 
 <hr>
 
-<img align="right" height="115px" width="260px" src="https://github.com/user-attachments/assets/514a18f5-d97f-4e23-bf14-fa5613422b5e">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1100&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=560&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
-
-<div align="left">
+<div align="center">
 <table><td>
   
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=144dff)
@@ -19,6 +17,8 @@
   
 </table></td>
 </div>
+
+<img align="center" height="115px" width="260px" src="https://github.com/user-attachments/assets/514a18f5-d97f-4e23-bf14-fa5613422b5e">
 
 <hr>
 
