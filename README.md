@@ -4,6 +4,8 @@
 
 <hr>
 
+<img align="right" height="160" src="https://github.com/user-attachments/assets/1aa258e6-5dc6-4100-a0cb-ef9034f72ab5">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=460&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
 
 <div align="left">
@@ -21,8 +23,6 @@
   
 </table></td>
 </div>
-
-<img align="center" height="115px"  src="https://github.com/user-attachments/assets/052264c2-a47f-4e4c-b6b3-999b8ce91692">
 
 <hr>
 
