@@ -12,13 +12,16 @@
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=144dff)
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=144dff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=144dff)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=144dff)
+  ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=144dff)
+  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=144dff)
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=144dff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=144dff)
   
 </table></td>
 </div>
 
-<img align="center" height="115px" width="260px" src="https://github.com/user-attachments/assets/514a18f5-d97f-4e23-bf14-fa5613422b5e">
+<img align="center" height="115px"  src="https://github.com/user-attachments/assets/052264c2-a47f-4e4c-b6b3-999b8ce91692">
 
 <hr>
 
