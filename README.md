@@ -1,10 +1,5 @@
 <img src="https://github.com/user-attachments/assets/6ac2a478-0d0a-4c7e-8897-739c287fe702">
 <img src="https://github.com/user-attachments/assets/4687a62d-03a6-4db5-b87a-66f5d3f80497">
-<img src="">
-<img src="">
-
-
-#
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&weight=700&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1250&height=80&lines=‎My%20stack%20and%20tools" alt="Typing SVG" alt="Typing SVG" /></a>
 
