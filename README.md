@@ -7,10 +7,14 @@
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=144dff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=144dff)
   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=144dff)
+  ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=144dff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=144dff)
   ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=144dff)
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=144dff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=144dff)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=144dff)
+  ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=144dff)
+  ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=144dff)
 
 </div>
 
