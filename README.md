@@ -1,7 +1,5 @@
 <img src="https://github.com/user-attachments/assets/6ac2a478-0d0a-4c7e-8897-739c287fe702">
-<img src="https://github.com/user-attachments/assets/4687a62d-03a6-4db5-b87a-66f5d3f80497">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&weight=700&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1250&height=80&lines=‎My%20stack%20and%20tools" alt="Typing SVG" alt="Typing SVG" /></a>
+<img src="https://github.com/user-attachments/assets/f68cde75-87a2-4beb-b162-16ce7ecfee46">
 
 <div align="center">
   
@@ -9,15 +7,12 @@
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=144dff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=144dff)
   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=144dff)
- ‎ ‎![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=144dff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=144dff)
   ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=144dff)
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=144dff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=144dff)
 
 </div>
-
-
 
 <div style="text-align: center;" align="center">
   <br>
@@ -27,9 +22,6 @@
     <img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7a828e&hide=html,css&bg_color=000&text_color=7a828e&border_radius=3&border_color=144dff&count_private=true" alt="Most Used Languages">
   </a>
 </div>
-
-<br>
-
 
 <h3 align="center">
 
