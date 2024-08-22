@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:144dff,10:000000&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes%20!&animation=fadeIn&font=Noto+Sans&fontColor=144dff&fontSize=25&fontAlign=50&fontAlignY=55)
-
-> I'm a Junior Front-end Developer, currently studying Systems Analysis and Development, improving my stack and my knowledge about clean code!
+<img src="https://github.com/user-attachments/assets/6ac2a478-0d0a-4c7e-8897-739c287fe702">
 
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&weight=900&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1250&height=80&lines=‎My%20stack%20and%20tools" alt="Typing SVG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&weight=700&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1250&height=80&lines=‎My%20stack%20and%20tools" alt="Typing SVG" alt="Typing SVG" /></a>
 
 <div align="left">
   
