@@ -1,25 +1,6 @@
 <img src="https://github.com/user-attachments/assets/6ac2a478-0d0a-4c7e-8897-739c287fe702">
-<img src="https://github.com/user-attachments/assets/f68cde75-87a2-4beb-b162-16ce7ecfee46">
-
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=144dff)
-  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=144dff)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=144dff)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=144dff)
-  ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=144dff)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=144dff)
-  ![Styled Components](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=144dff)
-  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=144dff)
-  ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=144dff)
-  ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=144dff)
-  ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=144dff)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=144dff)
-  ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=144dff)
-  ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=144dff)
-  
-
-</div>
+<img src="https://github.com/user-attachments/assets/bb9496a3-a86b-4bf7-999e-798dd3b811ab">
+<img src="https://github.com/user-attachments/assets/348343d5-8795-49fc-abc5-99159b34f249">
 
 <div style="text-align: center;" align="center">
   <br>
