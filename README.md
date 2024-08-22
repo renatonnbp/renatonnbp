@@ -1,9 +1,8 @@
-<img src="https://github.com/user-attachments/assets/6ac2a478-0d0a-4c7e-8897-739c287fe702">
-<img src="https://github.com/user-attachments/assets/bb9496a3-a86b-4bf7-999e-798dd3b811ab">
-<img src="https://github.com/user-attachments/assets/348343d5-8795-49fc-abc5-99159b34f249">
+<img src="./src/header_github.svg" alt="Header GitHub">
+<img src="./src/stack_github.svg" alt="Stack Github">
+<img src="./src/stack.svg" alt="Stack and Tools">
 
 <div style="text-align: center;" align="center">
-  <br>
   <img width="61.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=144dff&text_color=7a828e&border_radius=3&border_color=144dff&icon_color=144dff&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/renatonnbp?tab=repositories">
@@ -16,7 +15,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=144dff)](https://renatonnbp.github.io/portfolio/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=144dff&color:032360)](https://www.linkedin.com/in/renatonnbp/)
   [![Gmail Badge](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=144dff&color:00247b&link=mailto:renatonnbp@gmail.com)](mailto:renatonnbp@gmail.com)
-
 
 </h3>
 
