@@ -1,30 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:144dff,10:000000&height=60&text=%Olá%,%20sou%20Renato%20Nunes%20!&animation=fadeIn&fontColor=144dff&fontSize=25&fontAlign=50&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:144dff,10:000000&height=60&text=%Hi%20there%,%20I'm%20Renato%20Nunes%20!&animation=fadeIn&font=Noto+Sans&fontColor=144dff&fontSize=25&fontAlign=50&fontAlignY=55)
 
-> Sou Desenvolvedor Front-end Junior, atualmente cursando Análise e Desenvolvimento de Sistemas e aprimorando minha stack!
+> I'm a Junior Front-end Developer, currently studying Systems Analysis and Development, improving my stack and my knowledge about clean code!
 
 <hr>
 
-<img align="right" height="160" width="365" src="https://github.com/user-attachments/assets/1aa258e6-5dc6-4100-a0cb-ef9034f72ab5">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=900&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=460&height=40&lines=‎Tecnologias" alt="Typing SVG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&weight=900&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1250&height=80&lines=‎My%20stack%20and%20tools" alt="Typing SVG" alt="Typing SVG" /></a>
 
 <div align="left">
-<table><td>
   
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=144dff)
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=144dff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=144dff)
   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=144dff)
-  
- ‎ ‎ ‎ ‎ ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=144dff)
+ ‎ ‎![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=144dff)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=144dff)
   ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=144dff)
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=144dff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=144dff)
-  
-</table></td>
+
 </div>
 
-<hr>
+<img src="https://github.com/user-attachments/assets/4687a62d-03a6-4db5-b87a-66f5d3f80497">
 
 <div style="text-align: center;" align="center">
   <br>
