@@ -9,6 +9,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=144dff)
   ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=144dff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=144dff)
+  ![Styled Components](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=144dff)
   ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=144dff)
   ![Vue](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vuedotjs&logoColor=144dff)
   ![Tailwind](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=144dff)
