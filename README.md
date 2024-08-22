@@ -1,10 +1,10 @@
 <img src="https://github.com/user-attachments/assets/6ac2a478-0d0a-4c7e-8897-739c287fe702">
 
-<hr>
+#
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=25&weight=700&pause=10000&color=144dff&background=000000&center=true&vCenter=true&random=false&width=1250&height=80&lines=‎My%20stack%20and%20tools" alt="Typing SVG" alt="Typing SVG" /></a>
 
-<div align="left">
+<div align="center">
   
   ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=144dff)
   ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=144dff)
