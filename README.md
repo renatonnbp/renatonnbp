@@ -1,14 +1,16 @@
 <img src="./src/header_github.svg" alt="Header GitHub">
+<!--
 <img src="./src/stack_github.svg" alt="Stack Github">
 <img src="./src/stack.svg" alt="Stack and Tools">
-
 <div style="text-align: center;" align="center">
-  <img width="54%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=144dff&text_color=7a828e&border_radius=3&border_color=144dff&icon_color=144dff&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/renatonnbp?tab=repositories">
-    <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7a828e&hide=html,css&bg_color=000&text_color=7a828e&border_radius=3&border_color=144dff&count_private=true" alt="Most Used Languages">
-  </a>
+  <img width="54%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatonnbp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=144dff&text_color=7a828e&border_radius=3&border_color=144dff&icon_color=144dff&theme=jolly" alt="GitHub stats">  
+<a href="https://github.com/renatonnbp?tab=repositories">
+  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatonnbp&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7a828e&hide=html,css&bg_color=000&text_color=7a828e&border_radius=3&border_color=144dff&count_private=true" alt="Most Used Languages">
+</a>
 </div>
+-->
+
+
 
 <h3 align="center">
 
